@@ -1,0 +1,302 @@
+{
+  "status": 200,
+  "data": {
+    "metadata": {
+      "match_id": "123e4567-e89b-12d3-a456-426614174000",
+      "map": {
+        "id": "123e4567-e89b-12d3-a456-426614174000",
+        "name": "Ascent"
+      },
+      "game_version": "release-08.11-shipping-51-2606987",
+      "game_length_in_ms": 1,
+      "started_at": "2025-12-27T22:27:23.915Z",
+      "is_completed": true,
+      "queue": {
+        "id": "competitive",
+        "name": "Competitive",
+        "mode_type": "Standard"
+      },
+      "season": {
+        "id": "123e4567-e89b-12d3-a456-426614174000",
+        "short": "e1a1"
+      },
+      "platform": "pc",
+      "premier": {},
+      "party_rr_penaltys": [
+        {
+          "party_id": "123e4567-e89b-12d3-a456-426614174000",
+          "penalty": 1
+        }
+      ],
+      "region": "eu",
+      "cluster": "Frankfurt 1"
+    },
+    "players": [
+      {
+        "puuid": "123e4567-e89b-12d3-a456-426614174000",
+        "name": "Henrik3",
+        "tag": "VALO",
+        "team_id": "Red",
+        "platform": "xbox",
+        "party_id": "123e4567-e89b-12d3-a456-426614174000",
+        "agent": {
+          "id": "123e4567-e89b-12d3-a456-426614174000",
+          "name": "Sova"
+        },
+        "stats": {
+          "score": 1,
+          "kills": 1,
+          "deaths": 1,
+          "assists": 1,
+          "headshots": 1,
+          "legshots": 1,
+          "bodyshots": 1,
+          "damage": {
+            "dealt": 1,
+            "received": 1
+          }
+        },
+        "ability_casts": {
+          "grenade": 1,
+          "ability_1": 1,
+          "ability_2": 1,
+          "ultimate": 1
+        },
+        "tier": {
+          "id": 1,
+          "name": "Diamond 1"
+        },
+        "card_id": "123e4567-e89b-12d3-a456-426614174000",
+        "title_id": "123e4567-e89b-12d3-a456-426614174000",
+        "prefered_level_border": "123e4567-e89b-12d3-a456-426614174000",
+        "account_level": 1,
+        "session_playtime_in_ms": 1,
+        "behavior": {
+          "afk_rounds": 1,
+          "friendly_fire": {
+            "incoming": 1,
+            "outgoing": 1
+          },
+          "rounds_in_spawn": 1
+        },
+        "economy": {
+          "spent": {
+            "overall": 1,
+            "average": 1
+          },
+          "loadout_value": {
+            "overall": 1,
+            "average": 1
+          }
+        }
+      }
+    ],
+    "observers": [
+      {
+        "puuid": "123e4567-e89b-12d3-a456-426614174000",
+        "name": "HunterNation",
+        "tag": "OBSV",
+        "account_level": 1,
+        "session_playtime_in_ms": 1,
+        "card_id": "123e4567-e89b-12d3-a456-426614174000",
+        "title_id": "123e4567-e89b-12d3-a456-426614174000",
+        "party_id": "123e4567-e89b-12d3-a456-426614174000"
+      }
+    ],
+    "coaches": [
+      {
+        "puuid": "123e4567-e89b-12d3-a456-426614174000",
+        "team_id": "Red"
+      }
+    ],
+    "teams": [
+      {
+        "team_id": "Red",
+        "rounds": {
+          "won": 1,
+          "lost": 1
+        },
+        "won": true,
+        "premier_roster": {
+          "id": "123e4567-e89b-12d3-a456-426614174000",
+          "name": "VALO DE",
+          "tag": "VALO",
+          "members": [
+            "123e4567-e89b-12d3-a456-426614174000"
+          ],
+          "customization": {
+            "icon": "text",
+            "image": "123e4567-e89b-12d3-a456-426614174000",
+            "primary_color": "#000000",
+            "secondary_color": "#252525",
+            "tertiary_color": "#ffffff"
+          }
+        }
+      }
+    ],
+    "rounds": [
+      {
+        "id": 1,
+        "result": "Detonate",
+        "ceremony": "CeremonyCloser",
+        "winning_team": "Red",
+        "plant": {
+          "round_time_in_ms": 1,
+          "site": "B",
+          "location": {
+            "x": 1,
+            "y": 1
+          },
+          "player": {
+            "puuid": "123e4567-e89b-12d3-a456-426614174000",
+            "name": "Henrik3",
+            "tag": "VALO",
+            "team": "Red"
+          },
+          "player_locations": [
+            {
+              "puuid": "123e4567-e89b-12d3-a456-426614174000",
+              "name": "Henrik3",
+              "tag": "VALO",
+              "team": "Red",
+              "view_radians": 1,
+              "location": {
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        },
+        "defuse": {
+          "round_time_in_ms": 1,
+          "location": {
+            "x": 1,
+            "y": 1
+          },
+          "player": {
+            "puuid": "123e4567-e89b-12d3-a456-426614174000",
+            "name": "Henrik3",
+            "tag": "VALO",
+            "team": "Red"
+          },
+          "player_locations": [
+            {
+              "puuid": "123e4567-e89b-12d3-a456-426614174000",
+              "name": "Henrik3",
+              "tag": "VALO",
+              "team": "Red",
+              "view_radians": 1,
+              "location": {
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        },
+        "stats": [
+          {
+            "ability_casts": {
+              "grenade": 1,
+              "ability_1": 1,
+              "ability_2": 1,
+              "ultimate": 1
+            },
+            "player": {
+              "puuid": "123e4567-e89b-12d3-a456-426614174000",
+              "name": "Henrik3",
+              "tag": "VALO",
+              "team": "Red"
+            },
+            "damage_events": [
+              {
+                "puuid": "123e4567-e89b-12d3-a456-426614174000",
+                "name": "Henrik3",
+                "tag": "VALO",
+                "team": "Red",
+                "bodyshots": 1,
+                "headshots": 1,
+                "legshots": 1,
+                "damage": 1
+              }
+            ],
+            "stats": {
+              "bodyshots": 1,
+              "headshots": 1,
+              "legshots": 1,
+              "damage": 1,
+              "kills": 1,
+              "assists": 1,
+              "score": 1
+            },
+            "economy": {
+              "loadout_value": 1,
+              "remaining": 1,
+              "weapon": {
+                "id": "123e4567-e89b-12d3-a456-426614174000",
+                "name": "Vandal",
+                "type": "weapon"
+              },
+              "armor": {
+                "id": "123e4567-e89b-12d3-a456-426614174000",
+                "name": "Heavy Armor"
+              }
+            },
+            "was_afk": true,
+            "received_penalty": true,
+            "stayed_in_spawn": true
+          }
+        ]
+      }
+    ],
+    "kills": [
+      {
+        "round": 1,
+        "time_in_round_in_ms": 1,
+        "time_in_match_in_ms": 1,
+        "killer": {
+          "puuid": "123e4567-e89b-12d3-a456-426614174000",
+          "name": "Henrik3",
+          "tag": "VALO",
+          "team": "Red"
+        },
+        "victim": {
+          "puuid": "123e4567-e89b-12d3-a456-426614174000",
+          "name": "Henrik3",
+          "tag": "VALO",
+          "team": "Red"
+        },
+        "assistants": [
+          {
+            "puuid": "123e4567-e89b-12d3-a456-426614174000",
+            "name": "Henrik3",
+            "tag": "VALO",
+            "team": "Red"
+          }
+        ],
+        "location": {
+          "x": 1,
+          "y": 1
+        },
+        "weapon": {
+          "id": "123e4567-e89b-12d3-a456-426614174000",
+          "name": "Vandal",
+          "type": "weapon"
+        },
+        "secondary_fire_mode": true,
+        "player_locations": [
+          {
+            "puuid": "123e4567-e89b-12d3-a456-426614174000",
+            "name": "Henrik3",
+            "tag": "VALO",
+            "team": "Red",
+            "view_radians": 1,
+            "location": {
+              "x": 1,
+              "y": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
